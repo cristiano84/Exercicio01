@@ -89,7 +89,7 @@ cristiano@cris ~/D/i/g/exercicio01 (main)> git commit -m "Primeiro Commit | Exer
  1 file changed, 1 insertion(+), 1 deletion(-)
 cristiano@cris ~/D/i/g/exercicio01 (main)> git log 
 commit ddaaf47b8ffe9b1d204c84d7976c1781530f0434 (HEAD -> main)
-Author: Cristiano <cristiano@gmail.com>
+Author: Cristiano <crisaquino097@gmail.com>
 Date:   Fri Aug 9 17:48:53 2024 -0300
 
     Primeiro Commit | Exercicio 01
